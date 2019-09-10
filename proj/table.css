@@ -1,0 +1,23 @@
+
+
+table
+{
+    margin: auto;
+    border: 1;
+    border-width : 2px;
+    border-color: white;
+    background-color: rgba(0, 0, 0, .15);
+    color: black;
+
+}
+
+td
+{
+    padding: 10px;
+    border-width : 2px;
+    border-color: white;
+}
+h2
+{
+    text-align: center;
+}
