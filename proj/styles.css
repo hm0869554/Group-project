@@ -5,7 +5,7 @@ html{
 	background:rgb(101, 101, 101);
 }
 body{
-	background-color:white;
+	background-color:rgb(93,135,219);
 	font-family:Verdana, Geneva, Arial, sans-serif;
 	margin:20px auto;
 	min-width:320px;
@@ -21,7 +21,7 @@ nav a {
 }
 /* Body Header Styles */
 header{
-	background-color: rgb(191,68,70);
+	background-color: (#2d63cf);
 	height:40px;
 }
 header nav ul li{
