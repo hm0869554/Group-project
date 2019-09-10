@@ -2,7 +2,7 @@
 /*Test Code By Tori Skinner*/
 /* Window and Body Styles */
 html{
-	background:rgb(101, 101, 101);
+	background:(#2d63cf);
 }
 body{
 	background-color:rgb(93,135,219);
@@ -21,7 +21,7 @@ nav a {
 }
 /* Body Header Styles */
 header{
-	background-color: (#2d63cf);
+	background-color: rgb(93,135,219);
 	height:40px;
 }
 header nav ul li{
