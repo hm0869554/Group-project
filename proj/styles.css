@@ -13,8 +13,7 @@ body{
 	position:relative;
 }
 img{
-	display:block;
-	width:100%;
+	display:inline;
 }
 nav a {
 	text-decoration: none;
@@ -29,6 +28,9 @@ header nav ul li{
 	float:left;
 	margin-right:20px;
 	padding:10px 0px;
+}
+h2{
+	
 }
 header nav ul a:link, header nav ul a:visited{
 	font-size:0.9em;
