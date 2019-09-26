@@ -21,6 +21,7 @@ img{
 nav a {
 	text-decoration: none;
 }
+
 /* Body Header Styles */
 header{
 	background-color: rgb(93,135,219);
@@ -39,6 +40,8 @@ header nav ul a:link, header nav ul a:visited{
 header nav ul a:hover, header nav ul a:active, header nav ul a:focus{
 	color: rgb(255,211,211);
 }
+
+
 /* DIV Container Styles */
 div#container{
 	padding-right:8px;
@@ -49,6 +52,36 @@ div.cell a{
 	width:100%;
 	padding-left:8px;
 	padding-top:8px;
+}
+
+div#contactForm
+{
+	display: block;
+	float: right;
+	position: relative;
+	text-align: center;
+}
+
+.formCenter
+{
+	float: center;
+}
+
+.formRight
+{
+	float: right;
+}
+
+.formLeft
+{
+	float: left;
+}
+
+div#contactInfo
+{
+	display: block;
+	float: left;
+	position: relative;
 }
 /* Footer Styles */
 footer{
