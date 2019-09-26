@@ -19,9 +19,9 @@ function Send(frm)
 
     if(regexPhone.test(frm.phoneNumber.value) == false)
     {
-        frm.phnNum.style.backgroundColor = "red";
+        frm.phoneNumber.style.backgroundColor = "red";
         isValidArray[2] = false;
-    } else{ frm.phnNum.style.backgroundColor = "white"; }
+    } else{ frm.phoneNumber.style.backgroundColor = "white"; }
 
     if(frm.message.value == "")
     {
